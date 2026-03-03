@@ -22,5 +22,6 @@ int main()
     }
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
+    https://github.com/kissedvard/mosze-2023-teszt.git
     return 0;
 }
